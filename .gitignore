@@ -1,0 +1,7 @@
+# 在OpenSource目录创建
+echo "__pycache__/" > .gitignore
+echo "*.pyc" >> .gitignore
+echo ".idea/" >> .gitignore
+echo ".vscode/" >> .gitignore
+echo "*.tmp" >> .gitignore
+echo "*.log" >> .gitignore
