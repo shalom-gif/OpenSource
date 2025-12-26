@@ -40,9 +40,9 @@ print("\n 检查关键文件：")
 check_files = [".git"]
 for file in check_files:
     if (flask_dir / file).exists():
-        print(f"  ✅ {file} 存在")
+        print(f"   {file} 存在")
     else:
-        print(f"  ❌ {file} 缺失")
+        print(f"   {file} 缺失")
 
 # 获取提交信息
 print("\n 获取提交信息...")
