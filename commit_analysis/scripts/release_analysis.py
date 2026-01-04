@@ -555,12 +555,4 @@ def main():
     print("=" * 60)
 
 if __name__ == "__main__":
-    try:
-        import pandas as pd
-        import matplotlib.pyplot as plt
-    except ImportError:
-        print(" 缺少必要的库，请先安装:")
-        print("   pip install pandas matplotlib")
-        exit(1)
-    
     main()

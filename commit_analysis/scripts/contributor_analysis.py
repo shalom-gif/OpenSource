@@ -674,16 +674,5 @@ def main():
 
 
 if __name__ == "__main__":
-    # 检查必要的库
-    try:
-        import pandas as pd
-        import matplotlib.pyplot as plt
-    except ImportError:
-        print(" 缺少必要的库，请先安装:")
-        print("   pip install pandas matplotlib seaborn")
-        exit(1)
-    
     main()
-    
-    # 防止窗口立即关闭
     input("\n按回车键退出...")

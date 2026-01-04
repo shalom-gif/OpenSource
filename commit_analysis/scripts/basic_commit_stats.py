@@ -9,20 +9,11 @@ from datetime import datetime
 
 print(" 基本提交统计分析")
 print("=" * 50)
-
-# 获取当前脚本的绝对路径
 current_dir = Path(__file__).parent.absolute()
 print(f"当前脚本位置：{current_dir}")
-
-# 确定OpenSource目录（脚本所在目录的父目录的父目录）
 opensource_dir = current_dir.parent.parent
 print(f"OpenSource目录：{opensource_dir}")
-
-# Flask应该就在OpenSource目录下
 flask_dir = opensource_dir / "flask"
-print(f"预期Flask位置：{flask_dir}")
-
-# 检查目录是否存在
 if not flask_dir.exists():
     print(f" 找不到Flask目录，请确认：")
     print(f"   1. 是否在OpenSource目录下克隆了Flask？")
@@ -82,7 +73,6 @@ try:
     # 保存报告
     report_dir = opensource_dir / "commit_analysis" / "reports"
     report_dir.mkdir(parents=True, exist_ok=True)
-    
     report_file = report_dir / "basic_commit_stats_report.md"
     
     with open(report_file, "w", encoding="utf-8") as f:
@@ -104,8 +94,6 @@ try:
                 f.write(f"- **时间跨度**：{days} 天（约 {years:.1f} 年）\n")
             except ValueError:
                 f.write(f"- **时间跨度**：无法计算\n")
-        
-    
     
     print(f"\n 报告已保存：{report_file}")
     

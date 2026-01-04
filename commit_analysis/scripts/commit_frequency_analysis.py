@@ -18,8 +18,6 @@ plt.rcParams['axes.unicode_minus'] = True
 def get_commit_data():
     """获取Flask项目的提交数据"""
     print(" 开始获取Flask提交数据...")
-    
-    # 确保在flask子目录中执行git命令
     flask_path = Path(__file__).parent.parent.parent / "flask"
     
     # 获取所有提交的日期和作者
@@ -127,14 +125,12 @@ def create_visualizations(stats, figures_dir):
     plt.xlabel('Month', fontsize=12)
     plt.ylabel('Commit Count', fontsize=12)
     plt.grid(axis='y', alpha=0.3)
-    
     plt.tight_layout()
     plt.savefig(figures_dir / 'monthly_commit_distribution.png', dpi=150, bbox_inches='tight')
     plt.close()
     
     # 3. 最近36个月的详细趋势（英文标题）
     recent_data = stats['year_month'].tail(36)
-    
     plt.figure(figsize=(16, 6))
     plt.plot(range(len(recent_data)), recent_data.values, 
              marker='o', linewidth=2, markersize=4, color='green', alpha=0.7)
@@ -320,14 +316,12 @@ def generate_report(stats, report_dir):
             f.write('- **趋势判断**: 项目处于**调整期**，最近3年提交活跃度下降{:.1f}%，可能是项目已相对成熟或开发重点转移。\n'.format(abs(growth_rate)))
         
         f.write('- **项目阶段**: 基于{}年的发展历程和当前提交频率，项目处于**{}**。\n'.format(project_age_years, stage))
-        
         f.write('\n##  生成文件\n\n')
         f.write('### 数据文件\n')
         f.write('- `commit_analysis/data/yearly_commits.csv` - 年度提交统计\n')
         f.write('- `commit_analysis/data/monthly_commits.csv` - 月度提交统计\n')
         f.write('- `commit_analysis/data/year_month_commits.csv` - 年月提交统计\n')
         f.write('- `commit_analysis/data/weekday_commits.csv` - 星期几提交统计\n')
-        
         f.write('\n### 图表文件\n')
         f.write('- `commit_analysis/figures/yearly_commit_trend.png` - 年度提交趋势图\n')
         f.write('- `commit_analysis/figures/monthly_commit_distribution.png` - 月度分布图\n')
@@ -380,16 +374,5 @@ def main():
 
 
 if __name__ == "__main__":
-    # 检查必要的库
-    try:
-        import pandas as pd
-        import matplotlib.pyplot as plt
-    except ImportError:
-        print(" 缺少必要的库，请先安装:")
-        print("   pip install pandas matplotlib seaborn")
-        exit(1)
-    
     main()
-    
-    # 防止窗口立即关闭
     input("\n按回车键退出...")

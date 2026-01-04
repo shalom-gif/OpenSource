@@ -214,7 +214,6 @@ def analyze_commits(commits):
         for file_info in commit['files']:
             filename = file_info['filename']
             stats = file_stats_dict[filename]
-            
             stats['commit_count'] += 1
             stats['total_changed_lines'] += file_info['changed_lines']
             stats['authors'].add(commit['author'])
@@ -486,14 +485,4 @@ def main():
     print("=" * 70)
 
 if __name__ == "__main__":
-    # 检查必要的库
-    try:
-        import pandas as pd
-        import matplotlib.pyplot as plt
-        import seaborn as sns
-    except ImportError:
-        print(" 缺少必要的库，请先安装:")
-        print("   pip install pandas matplotlib seaborn")
-        exit(1)
-    
     main()
