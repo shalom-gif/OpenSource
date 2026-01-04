@@ -1,0 +1,57 @@
+{
+  "total_releases": 33,
+  "first_release": "2010-04-16 00:00:00",
+  "last_release": "2023-09-16 00:00:00",
+  "version_types": {
+    "patch": {
+      "count": 18,
+      "percentage": 54.54545454545454
+    },
+    "minor": {
+      "count": 13,
+      "percentage": 39.39393939393939
+    },
+    "major": {
+      "count": 2,
+      "percentage": 6.0606060606060606
+    }
+  },
+  "yearly_counts": {
+    "2010": 8,
+    "2011": 4,
+    "2012": 2,
+    "2013": 2,
+    "2016": 3,
+    "2017": 2,
+    "2018": 5,
+    "2019": 4,
+    "2020": 2,
+    "2023": 1
+  },
+  "avg_interval_days": 153.15625,
+  "median_interval_days": 23.5,
+  "min_interval_days": "0",
+  "max_interval_days": "1261",
+  "interval_by_type": {
+    "major": {
+      "mean": 630.5,
+      "median": 630.5,
+      "count": 2
+    },
+    "minor": {
+      "mean": 165.83333333333334,
+      "median": 23.5,
+      "count": 12
+    },
+    "patch": {
+      "mean": 91.66666666666667,
+      "median": 27.5,
+      "count": 18
+    }
+  },
+  "major_versions": {
+    "0": 24,
+    "1": 8,
+    "3": 1
+  }
+}

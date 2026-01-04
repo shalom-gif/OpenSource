@@ -1,0 +1,501 @@
+hash,author,date,message,commit_type,additions,deletions,changed_lines,file_count
+2579ce9f18e67ec3213c6eceb5240310ccd46af8,David Lord,2025-11-17,Merge branch 'stable',other,0,0,0,0
+607d1948b8747776f4a45d5b7c7eaeb57b6b9f80,David Lord,2025-11-17,split free threading envs,other,4,2,6,1
+218880c7fdedee139ac09caaf93da469b4dba14c,David Lord,2025-11-17,Merge branch 'stable',other,0,0,0,0
+917000097fc17875104176e2c71318ab25c508c3,David Lord,2025-11-17,test py3.14,test,8,6,14,2
+96a01e420b741c59af59301f15612fde39bfb39d,David Lord,2025-11-17,Merge branch 'stable',other,0,0,0,0
+da6d075dfde71b2e2a64f39b29ba957d5ffb00b0,David Lord,2025-11-17,update dev dependencies,other,1040,643,1683,6
+70d04b5a2620705011e65f79ccfd52caa86f5d6a,David Lord,2025-11-17,pass context through dispatch methods (#5818),other,0,0,0,0
+88a65bb374e87a18816a780dbd4ae69d307aa85c,Hynek Schlawack,2025-10-14,Docs typo/markup fixes (#5829),other,5,5,10,2
+6a64969009bf1898bd302e6a9633f71942523f7f,David Lord,2025-09-19,pass context through dispatch methods,other,167,72,239,6
+adf363679da2d9a5ddc564bb2da563c7ca083916,David Lord,2025-09-19,merge app and request context (#5812),other,0,0,0,0
+c2705ffd9ce1dc8476cb29eaf5ff5d4c719852d9,David Lord,2025-09-12,merge app and request context,other,779,1007,1786,36
+330123258e8c3dc391cbe55ab1ed94891ca83af3,David Lord,2025-08-19,Merge branch 'stable',other,0,0,0,0
+85793d6c223dd845e8f218403a5ced83041d37e1,David Lord,2025-08-19,release version 3.1.2 (#5800),other,0,0,0,0
+2c1b30d0503cfb064f1cb252e6614a06915a362a,David Lord,2025-08-19,release version 3.1.2,other,5,5,10,3
+1292419ddfc6a14fc7f85b5ed7efcc2d215f1ad3,David Lord,2025-08-19,Update GitHub Actions workflow for artifact handling (#5795),other,0,0,0,0
+4dd52ca9c768c9b6d04180f0547d6f4b6e34f211,Grant Birkinbine,2025-08-06,Update GitHub Actions workflow for artifact handling,other,16,3,19,1
+55c62556571ee46a94da174643b50ece06edead4,David Lord,2025-08-19,update dev dependencies,other,444,398,842,5
+ed1c9e953e2d67c0994e32e6c8d878291e36d4f7,David Lord,2025-08-19,support call template_filter without parens (#5736),other,0,0,0,0
+edebd3704437f19b5b137eaffe97130fe817d144,David Lord,2025-08-19,"rewrite docs, clean up typing for template decorators",refactor,228,179,407,3
+daf1510a4bda652ac2cfca03ec5567b03ddf8bf1,kadai0308,2025-05-17,use template_filter without parens,other,272,23,295,6
+d8259eb11900285af9b80b0fa47f841174c054e3,David Lord,2025-08-19,use Jinja name consistently,other,31,31,62,9
+38b4c1e19b50494cfcdc9332899e09b7fed34979,David Lord,2025-08-19,refactor stream_with_context for async views (#5799),refactor,0,0,0,0
+9822a0351574790cb66c652fcc396ad7aa2b09d8,David Lord,2025-08-19,refactor stream_with_context for async views,refactor,63,32,95,3
+49b7e7bc8fb69d605719991d1c0a99fcee689053,David Lord,2025-08-18,security docs for TRUSTED_HOSTS (#5798),other,0,0,0,0
+b228ca3d87745b746d904a2108429617a814ffda,David Lord,2025-08-18,security docs for TRUSTED_HOSTS,other,21,0,21,1
+ff64079a516c269f171ababf3d92b86886a62ffd,David Lord,2025-08-18,update flask-talisman link,other,1,1,2,1
+1dfd7cd5555d9e62a2e198a131c366242e724b35,David Lord,2025-08-18,use IO[bytes] instead of BinaryIO for wider compatibility (#5777),other,0,0,0,0
+d44f1c65239c3e33509224aa1931631243dbfa7f,Tero Vuotila,2025-07-16,relax type hint for bytes io,other,2,1,3,2
+c56c5ec7c41e6ffd02516bf7cb80dd2ba9ba7aa3,David Lord,2025-08-18,Docs: Fix escaping in HTML escaping example (#5742),bugfix,0,0,0,0
+0f83958247e9eab1c7f62903601dfd5fe10c640f,Badhreesh,2025-05-21,demonstrate escaping with query string,other,6,8,14,1
+7fea7cf15688b2a2712b01c45c9e3385ea382e67,David Lord,2025-08-18,Update macOS UI reference to “System Settings” (#5723),other,0,0,0,0
+24824ff666e096c4c07d0b75a889088571afe4a6,David Lord,2025-08-18,push preserved contexts in correct order (#5797),other,0,0,0,0
+53b8f08218796d95764c5252bccd8a50a173a6fb,David Lord,2025-08-18,push preserved contexts in correct order,other,15,23,38,3
+5addaf833b2e8c7a616f89dd8ad5a44b07d7c000,David Lord,2025-08-18,start version 3.1.2,other,9,3,12,3
+85c5d93cbd049c4bd0679c36fd1ddcae8c37b642,David Lord,2025-06-12,Merge branch 'stable',other,0,0,0,0
+85cc71046475f9cb3efd17d496356795961249f9,David Lord,2025-06-12,svg logo,other,48,52,100,8
+284273e3c5d8005bbb4b43c4d934409a5215886e,David Lord,2025-06-10,Merge branch 'stable',other,0,0,0,0
+f17d9869489aea57d3fa05d5a3f1504fcf8e588c,David Lord,2025-06-10,cleanup svg,refactor,59,3,62,3
+d6009c0aeb3c7fe3a841733e9dbdfbbb63b9bfd1,David Lord,2025-06-09,Merge branch 'stable',other,0,0,0,0
+2b42a803a25e56a3a0e2af939ee5be4dcc3f29c8,David Lord,2025-06-09,cleanup svg,refactor,3,3,6,3
+211cce038ab6354a15a76b2c7f98fa98bfc9e6a3,David Lord,2025-06-09,Merge branch 'stable',other,0,0,0,0
+a7b67c99f922f26b1071a90994e14261dc0a6df2,David Lord,2025-06-09,svg logo (#5757),other,0,0,0,0
+a758915893352f5986c6ee101cdf7e3b7a64fa28,David Lord,2025-06-09,svg logo,other,9,3,12,9
+e9741288637e0d9abe95311247b4842a017f7d5c,David Lord,2025-06-08,Merge branch 'stable',other,0,0,0,0
+f04c5e696400badaa52b3450ded53e9091c2078a,David Lord,2025-06-08,update dev dependencies,other,239,229,468,11
+c07b201ce336c3e49ae3b6fa81aaf4fb871d90ba,David Lord,2025-06-08,Merge pull request #5754,other,0,0,0,0
+adeea0070700671230733879846417c80f4e62b1,David Lord,2025-06-08,remove slsa provenance,other,3,26,29,2
+7bf3be8dfa5832ef03a3fd8f07f6736e770440e4,abhiram kamini,2025-05-01,Update server.rst,other,1,1,2,1
+a42c4d54a3e5cd56c0700479ede75157a748acd6,David Lord,2025-05-20,Fix global CONTRIBUTING link (#5737),bugfix,0,0,0,0
+184ec3c5453e1156372085df35e8d922ce7e3559,AJ Jordan,2025-05-18,Fix global CONTRIBUTING link,bugfix,1,1,2,1
+a5f9742398c9429ef84ac8a57b0f3eb418394d9e,David Lord,2025-05-13,drop end of life python versions (#5731),other,0,0,0,0
+52df9eed45d0b19c588662ed8492d8fbaa0e7098,David Lord,2025-05-13,drop end of life python versions,other,78,284,362,11
+e7e53807766ef1470bce546716a675ded4b08597,David Lord,2025-05-13,Merge branch 'stable',other,0,0,0,0
+bbaf13333fd00644313488243cfe547b13dcae78,David Lord,2025-05-13,fix syntax,bugfix,2,2,4,1
+57e72869486e89b45f6fd0a07cdd0adf80f5db1b,David Lord,2025-05-13,release version 3.1.1 (#5730),other,0,0,0,0
+7fff56f5172c48b6f3aedf17ee14ef5c2533dfd1,David Lord,2025-05-13,release version 3.1.1,other,4,4,8,3
+73d6504063bfa00666a92b07a28aaf906c532f09,David Lord,2025-05-13,Merge commit from fork,other,0,0,0,0
+cbb6c36692f7d882e9026597624c0eb38e01f9cb,David Lord,2025-03-29,update docs about fallback order,other,6,3,9,1
+fb54159861708558b5f5658ebdc14709d984361c,James Addison,2025-03-10,secret key rotation: fix key list ordering,bugfix,15,5,20,3
+bc143499cf1137a271a7cf75bdd3e16e43ede2f0,David Lord,2025-05-11,Merge branch 'stable',other,0,0,0,0
+941efd4a36ed0f27e13758874f95e3aa1d3ee163,David Lord,2025-05-11,use uv (#5727),other,0,0,0,0
+0109e496f6ca68de29480fe6413e81b1d3f86aa9,David Lord,2025-05-11,use uv,other,1876,534,2410,24
+11c45eeba3b5bcf06b84f4e864862f1019a3faa3,David Lord,2025-05-11,update dev dependencies,other,34,34,68,11
+b78b5a210bde49e7e04b62a2a4f453ca10e0048c,David Lord,2025-03-30,Merge branch 'stable',other,0,0,0,0
+e7851665071cb93b3c70b1e7103f82d1e6d01f5d,David Lord,2025-03-30,Async Iterable Response (#5659),other,0,0,0,0
+410e5ab7ed0ef326fa8b5164a633863f137ffff5,CoolCat467,2024-11-18,Accept `AsyncIterable` for responses,other,6,0,6,2
+bfffe87d4c2ea255b9a51432bebb3d28741245c4,David Lord,2025-03-29,add ghsa links,feature,2,0,2,2
+73ce26c3e822cdc2ccf99625619a50c91f163f8d,David Lord,2025-03-29,remove tests about deprecated pkgutil.get_loader (#5702),other,0,0,0,0
+41ec5760a2c55a099c3a1733fdd36fbb1258a02b,David Lord,2025-03-29,remove tests about deprecated pkgutil.get_loader,other,3,35,38,2
+2732c4db66763462c2795d2287b61d4f77031342,David Lord,2025-03-29,add endpoint name in favicon example (#5701),feature,0,0,0,0
+c94d2a77db0102a7cf8ceec7804f366f180c373f,David Lord,2025-03-29,add endpoint name in favicon example,feature,5,2,7,1
+315ebc11765ed3b9da8b5271602e89a403376c24,David Lord,2025-03-29,better type checking during deprecation (#5700),other,0,0,0,0
+7d5d1874581209f66ad7bcdfb7f85b2b9a7ca471,David Lord,2025-03-29,better type checking during deprecation,other,14,13,27,1
+c7c8dc38ea2890d62b7aaff7e4c016e4b98101b0,David Lord,2025-03-29,Remove HTTP Public Key Pinning from docs (#5695),other,0,0,0,0
+2ae36c8dd5c9d24578d9fca85f8c351290d0de04,black,2025-03-24,Remove HTTP Public Key Pinning from docs,other,0,13,13,1
+5ea0ab8ea21b0c11ee6098e6b052463687af602a,David Lord,2025-03-29,Handle help arg by itself the same as no args (#5674),other,0,0,0,0
+da600394865c06a4772c433c1a560453dcf4f868,George Waters,2025-01-29,Handle help arg by itself the same as no args,other,5,1,6,2
+08c480b3b31e896698bb773069026a61eb53d158,David Lord,2025-03-29,Update app factory docs (#5671),other,0,0,0,0
+f51a23839aa55aee2f2a9196c344df6eecd854d7,kotvkvante,2025-01-26,fix bash cli syntax error and app name,bugfix,2,2,4,1
+04b070fa26b346b48bd66d317e72de75e001a2e7,David Lord,2025-03-29,Fix typo in the docs (#5650),bugfix,0,0,0,0
+75a8327cfd6eb912e469a8a613151d7ee50a1c1c,zhuangzhuang,2024-11-27,Update mongoengine.rst,other,1,1,2,1
+165af0a090e229e94ccd93896efc15b9fe0488da,David Lord,2025-03-29,update dev dependencies,other,64,58,122,10
+235c52fa10094135746d04a5b6a7bea8125357f0,David Lord,2025-03-29,fix rtd build,bugfix,1,0,1,1
+f61172b8dd3f962d33f25c50b2f5405e90ceffa5,David Lord,2025-01-05,Merge branch 'stable',other,0,0,0,0
+959052fb8d49c4473f6d8a928d745ae7c38c7e95,David Lord,2025-01-05,use global contributing guide,other,18,317,335,5
+5b525e97970b1b9706b4415de79abfe33e5955fc,David Lord,2025-01-05,markdown formatting,other,4,6,10,1
+60a11a730e8aa2450115385798ab8710804c6409,David Lord,2025-01-05,use global contributing guide,other,18,317,335,5
+6b361ce06b08454329286214072139228e8c2f33,David Lord,2025-01-05,markdown formatting,other,4,6,10,1
+6b054f8f3876ff4c31580b014d344c4cf491059d,David Lord,2024-11-23,Merge branch 'stable',other,0,0,0,0
+f2674c5bb4f7a79f836069859a346b81771eeee5,David Lord,2024-11-23,fix type hint for `cli_runner.invoke` (#5647),bugfix,0,0,0,0
+54c3f87af9f6c0d6622cec2c3d9695b0229fb8fa,kurtatter,2024-11-23,fix type hint for `cli_runner.invoke`,bugfix,4,1,5,2
+ea08f155d8d37d515559534bbe0f80ef5185466c,David Lord,2024-11-23,update `__version__` deprecation (#5649),chore,0,0,0,0
+b394a994e6d632643d0061e0e67772f076925951,David Lord,2024-11-23,update `__version__` deprecation,chore,1,1,2,1
+dcbe86bd1577bad9a1356acca5fced7d3fb3a0c3,David Lord,2024-11-23,start version 3.1.1,other,7,1,8,2
+d5b7a05ab2a053c617149cfd4f7e3379bfd279e5,David Lord,2024-11-23,remove previously deprecated code (#5648),other,0,0,0,0
+d22bfcd4cfe3b93daddfce8521f77447ca8d6b84,David Lord,2024-11-23,remove previously deprecated code,other,2,21,23,2
+4fec712f329ceecd38729af6404a2c32aed83648,David Lord,2024-11-23,start version 3.2.0,other,7,1,8,2
+18ffe1eaf6c2eeffc898f4e8a590c062c40b30dc,David Lord,2024-11-20,add gettext config for docs,feature,3,0,3,1
+bc098406af9537aacc436cb2ea777fbc9ff4c5aa,David Lord,2024-11-13,release version 3.1.0 (#5640),other,0,0,0,0
+ab8149664182b662453a563161aa89013c806dc9,David Lord,2024-11-13,release version 3.1.0,other,3,3,6,2
+70602a196a6da90eb0d34cdfe5d4d16a99606279,David Lord,2024-11-13,remove test pypi,test,0,4,4,1
+6748a09341deeac16acb33996df95a31fae0c545,David Lord,2024-11-13,update dev dependencies,other,11,11,22,7
+22c48a738b5fb5b5cf09fb77270139f116069748,David Lord,2024-11-13,Merge remote-tracking branch 'origin/stable',other,0,0,0,0
+2eab96a32a92ceb4b6947102626f896816a0291d,David Lord,2024-11-13,use generic bases for session (#5638),other,0,0,0,0
+f49dbfd3e451006a485e81ebce030495131c4454,David Lord,2024-11-13,use generic bases for session,other,7,5,12,1
+7b21d43d4c763b874bc86d4c2d69a48ee492dc22,David Lord,2024-11-12,configure and check `request.trusted_hosts` (#5637),other,0,0,0,0
+4f7156f2c3271613b34d04040b502b9d7ae35eb9,David Lord,2024-11-12,configure and check trusted_hosts,other,40,0,40,4
+10bdf61a0f751f3cb000f8f8ac5ac5b4bb535677,David Lord,2024-11-12,setting `SERVER_NAME` does not restrict routing for both `subdomain_matching` and `host_matching` (#5634),other,0,0,0,0
+4995a775df21a206b529403bc30d71795a994fd4,David Lord,2024-11-10,fix subdomain_matching=False behavior,bugfix,98,43,141,5
+07c7d5730a2685ef2281cc635e289685e5c3d478,David Lord,2024-11-08,update min blinker version (#5633),chore,0,0,0,0
+470e2b8d17fd0032271b21f1d6775d48c3855a79,David Lord,2024-11-08,update min blinker version,chore,4,4,8,4
+a20bcff8dc4e263312cfd74c11e432bfe8c194c1,David Lord,2024-11-08,enable secret key rotation (#5632),other,0,0,0,0
+e13373f838ab34027c5a80e16a6cb8262d41eab7,David Lord,2024-11-08,enable secret key rotation,other,55,7,62,9
+7522c4bcdb10449dc919e0ffbdebb92fe66822b5,David Lord,2024-11-07,update env file precedence (#5630),other,0,0,0,0
+2c3160304278d323da8485057770926d1b582579,David Lord,2024-11-07,update env file precedence,other,90,47,137,3
+6c44dd4bb8e4f2ca5f135f172de4725b2cada155,David,2024-11-06,update helpers.send_from_directory docstring (#5599),other,2,1,3,1
+98ae71897600a3162f529b1b30c70b8abdf0961b,David Lord,2024-11-01,fix mypy finding,bugfix,1,1,2,1
+c62b03bcfd6e6440f8195e02f4678488e16121ac,David Lord,2024-11-01,fix example and tutorial compatibility and update metadata (#5627),bugfix,0,0,0,0
+a9b99b3489cc24b5bed99fbadbd91f598a5a1420,David Lord,2024-11-01,update example project metadata,other,6,4,10,5
+8aa161a43731795841fa2678d3dff0559cee527e,David Lord,2024-11-01,add sqlite datetime converter,feature,14,0,14,2
+df201ed152b61c439ea1ace179f35b424594ba6c,David Lord,2024-11-01,fix js example test,bugfix,1,1,2,1
+ce08bc704e24c01582052f5c544fae181d08386f,David Lord,2024-11-01,add SESSION_COOKIE_PARTITIONED config (#5499),feature,0,0,0,0
+9efc1ebeeb431769897798cdf8de2c67dcbbc9c0,David Lord,2024-06-09,add SESSION_COOKIE_PARTITIONED config,feature,34,0,34,5
+6f2014d353d514e404c1f40e8f0a24e2bf62b941,David Lord,2024-11-01,add config and docs for limits (#5626),feature,0,0,0,0
+c7a53888a1a514619b0611fd8b7928592f4ed612,David Lord,2024-11-01,add config and docs for limits,feature,231,33,264,7
+62c56e08c43f5eb174d15dd050591cfba9aed548,David Lord,2024-10-31,update minimum dependencies (#5624),other,0,0,0,0
+8f37c82f6144fffc2ed30e49ee81a54702a0f317,David Lord,2024-10-31,update min dependencies,other,13,11,24,5
+39e7208366bcf549fd7a2678a6d815dfe39196c5,David Lord,2024-10-31,update dev dependencies,other,57,56,113,6
+227838c4727ba780e6fb4a7c372ae62357cac4c6,David Lord,2024-10-31,no need for separate requirements-skip folder anymore,other,3,4,7,5
+99ce7ed0e40686ec2583f90bd1cca37a207b4ea7,David Lord,2024-10-31,drop support for Python 3.8 (#5623),other,0,0,0,0
+1d610e44b396d11113bb6a5d168cc5e996a6dfb9,David Lord,2024-10-31,drop support for Python 3.8,other,25,42,67,12
+e8b91cd38aadafdf733558bbcea4810fa65bb849,David Lord,2024-10-24,fix pyright type errors (#5620),bugfix,0,0,0,0
+9e831e915fa875423af0c0de8f53a3780055919e,bre-17387639,2024-08-06,fix pyright type errors,bugfix,22,19,41,10
+5e8cb740187c0561b36323dfc8510e58c3066838,David Lord,2024-10-24,update test workflow trigger,test,1,1,2,1
+2778b7c23f37d4f3cfed4cadac4bc9c90e098c50,David Lord,2024-10-24,Merge branch 'stable',other,0,0,0,0
+96800fb673cb7b2d75476096798e701e3e6d26bc,David Lord,2024-10-24,update test workflow trigger,test,3,11,14,1
+8f2bc008ad724a52f3669ecb2de59c98deb69ce1,David Lord,2024-10-24,update dev dependencies,other,15,15,30,6
+9b5549313e98044b89edb7078641d1d729b4a6c2,David Lord,2024-10-23,Merge branch '3.0.x',other,0,0,0,0
+68150d4cafc796dba2b595c320a09222394bfc1a,David Lord,2024-10-22,Fix the issue link in the Flask 3.0.1 Changelog in the send_file argu… (#5618),bugfix,0,0,0,0
+74721b48f0347f19f134f386fab3421e5132fb53,Catarina Bressan,2024-10-22,Fix the issue link in the Flask 3.0.1 Changelog in the send_file argument type entry,bugfix,1,1,2,1
+d273f87a41e72db8ef1387f469ffa1c6eed39730,David Lord,2024-10-18,use python 3.9 to test dev versions (#5615),test,0,0,0,0
+52ccd66735ba1f6e67d06e747d6a641980b788a3,David Lord,2024-10-18,use python 3.9 to test dev versions,test,2,2,4,2
+dffe3034825edc4f84aded013fc9c6590e545ed5,David Lord,2024-10-18,fix mypy findings,bugfix,1,1,2,1
+52c060f718e0f07e9d982d2d97973ead0f4d55ca,David Lord,2024-10-18,Fix typo in the changelog (#5609),bugfix,0,0,0,0
+c5a5576522273ff028018c4e13d1fc4d0260495b,David Lord,2024-10-18,update CHANGES.rst,other,3,0,3,1
+bca18041b055102857a7e8a12f8694fddda9571b,David Lord,2024-10-18,Merge branch '3.0.x',other,0,0,0,0
+b337d210583a3f5f84d0f70b56ae9a82b029dab5,David Lord,2024-10-18,update dev dependencies,other,67,56,123,9
+e63ead4208c1e56723532878728ef9c2eb197b01,Grey Li,2024-09-22,Fix typo in the changelog,bugfix,1,1,2,1
+2fec0b206c6e83ea813ab26597e15c96fab08be7,David Lord,2024-09-01,set up pre-commit lite workflow,other,1,0,1,1
+111e5bd3129deee54ff62b0d13ed7e5739c27108,David Lord,2024-09-01,set up pre-commit lite workflow,other,0,0,0,1
+db49548d7168bba319fdba400bc201528cb1d3cd,David Lord,2024-09-01,set up pre-commit lite workflow,other,15,0,15,1
+f93dd6e826a9bf00bf9e08d9bb3a03abcb1e974c,David Lord,2024-08-23,remove pre-commit.ci update,other,0,2,2,1
+7e5307030743b1f198da38c36f83fd279bad4529,David Lord,2024-08-23,Merge branch '3.0.x',other,0,0,0,0
+c77b099cbb979269d45df06753cadd8abc662e23,David Lord,2024-08-23,remove min python for pip-compile,other,23,81,104,6
+eeb5f95a0f24abc5207159cc922cdda8d779f4f6,David Lord,2024-08-23,Merge branch '3.0.x',other,0,0,0,0
+40b78fa2ea9095197608287de9f0d902d2763b00,David Lord,2024-08-23,fix min python for pip-compile,bugfix,81,24,105,6
+4e6384da325f5c328526b998d199c6f957f90ea8,David Lord,2024-08-23,Merge branch '3.0.x',other,0,0,0,0
+2c5d652493b79eecadd4407f24f2249948bd6ff2,David Lord,2024-08-23,remove unused config,other,0,1,1,1
+176fdfa0002360670f698d3828cfff11f97349f0,David Lord,2024-08-23,fix mypy findings,bugfix,14,2,16,2
+2d31dce8262a68875c177645fa0c7585a45ac447,David Lord,2024-08-23,remove dependabot,other,0,24,24,1
+29a94bd102805eafcea94a185808cd878cd3f5ad,David Lord,2024-08-23,update dev dependencies,other,79,85,164,9
+0f2ae2b9330604247f553f41d310e7c0191275ef,David Lord,2024-08-23,add gha-update,feature,24,9,33,2
+8a6cdf1e2a5efa81c30f6166602064ceefb0a35b,David Lord,2024-08-06,[pre-commit.ci] pre-commit autoupdate (#5541),other,0,0,0,0
+326ad3f43c63f84a69d6d08af276cbdf653efc51,pre-commit-ci[bot],2024-08-05,[pre-commit.ci] pre-commit autoupdate,other,1,1,2,1
+a791997041b94b8a5effebc296cb427fde8e0ee5,David Lord,2024-08-03,Bump the github-actions group with 3 updates (#5539),chore,0,0,0,0
+4fe0aebab79a092615f5f86a24b91bac07fb2ef2,dependabot[bot],2024-08-01,Bump the github-actions group with 3 updates,chore,6,6,12,2
+a8956feba1e40105e7bc78fa62ce36c58d1c91e1,David Lord,2024-07-10,Add encoding parameter to open resource (#5526),feature,0,0,0,0
+28d5a4d71824ff5823ae310e3fd014b48b33d583,David Lord,2024-07-10,add encoding parameter to open_resource,feature,81,53,134,4
+5353f306fe0c64ffa9e73f256ba3cb200652354d,David Lord,2024-07-10,Update waitress.rst (#5522),other,0,0,0,0
+321bd74b954156553db3dca8f43b45cdd5a88f76,Amirreza A,2024-07-09,Update waitress.rst,other,1,1,2,1
+66af0e55ef6631d05c691707da19d0f1c46921ea,David Lord,2024-07-02,[pre-commit.ci] pre-commit autoupdate (#5517),other,0,0,0,0
+3d357273b50ed9c8ca660f60fde255c26ff7a228,pre-commit-ci[bot],2024-07-02,[pre-commit.ci] pre-commit autoupdate,other,1,1,2,1
+926ab92118006c74a0a33bcb8f770522d007349a,David Lord,2024-07-01,Bump the python-requirements group in /requirements with 5 updates (#5514),chore,0,0,0,0
+088b58dbceb09b3234926af8488c016227bd7c0e,David Lord,2024-07-01,Bump the github-actions group with 2 updates (#5516),chore,0,0,0,0
+7621b3d96ac2d53846c4df211bc05c5e13420028,dependabot[bot],2024-07-01,Bump the github-actions group with 2 updates,chore,5,5,10,2
+e165f3aef4dbede5d7e3f71c336c89a268753ae9,dependabot[bot],2024-07-01,Bump the python-requirements group in /requirements with 5 updates,chore,10,10,20,3
+d718ecf6d3dfc4656d262154c59672437c1ea075,pgjones,2024-06-05,Provide a configuration option to control automatic option responses,other,14,2,16,4
+0ce27278d234c13ce00019540ff8e9891542d1f2,David Lord,2024-06-03,[pre-commit.ci] pre-commit autoupdate (#5495),other,0,0,0,0
+07c8f19bfd6128c7cbb9c61c41b43a9eeca1b435,pre-commit-ci[bot],2024-06-03,[pre-commit.ci] pre-commit autoupdate,other,1,1,2,1
+0d2100ed17d24b2a30594729b99feebe76839bc5,David Lord,2024-06-01,Bump actions/checkout from 4.1.4 to 4.1.6 in the github-actions group (#5493),chore,0,0,0,0
+e3535f99717bdf3882c0b48bff3e3eb244454e34,dependabot[bot],2024-06-01,Bump actions/checkout from 4.1.4 to 4.1.6 in the github-actions group,chore,3,3,6,2
+422e05e28dbae9fdcbca855e6727738f57cfccfe,David Lord,2024-06-01,Bump the python-requirements group in /requirements with 3 updates (#5492),chore,0,0,0,0
+f567ab90681235f38bdeaeda004d89e85b8627d9,dependabot[bot],2024-06-01,Bump the python-requirements group in /requirements with 3 updates,chore,6,6,12,3
+6d126e1013dd9966dc510612a4b97f8f15fca2c4,David Lord,2024-05-25,Added python type annotation and return type. (#5485),other,0,0,0,0
+c7da8c2aa3a923fc620ad480a8831a8a0f21ab37,Heisenberg,2024-05-19,Added python type annotation and return type.,other,1,1,2,1
+bb16048ad74dfd07364226d02ab656f5a5cf6730,David Lord,2024-05-25,Edited variable names in quickstart guide (#5487),other,0,0,0,0
+767ad19b10c64af1fa328383713ea97e23cc0080,Jake Tanis,2024-05-21,Edited variable names in the rendering templates section of the quickstart guide.,other,4,4,8,1
+a2f495b9ff26c84e0ac35dcd957718e2d3f53afe,David Lord,2024-05-25,`SESSION_COOKIE_DOMAIN` caveat documentation (#5464),documentation,0,0,0,0
+4a1766c252bac0de1368cc4eaefba1299f77d546,Éloi Rivard,2024-04-15,document caveats on SESSION_COOKIE_DOMAIN,other,6,0,6,1
+255c8d66af6daff3eaa063ea0819e185d4d1e214,David Lord,2024-05-11,Merge branch '3.0.x',other,0,0,0,0
+bea5876e46144080a06170222396b953a361af48,David Lord,2024-05-11,test with python 3.13 (#5481),test,0,0,0,0
+9101439d7b7e21d5cf8a4a2a3dc92b9980539c6b,David Lord,2024-05-11,test with python 3.13,test,2,1,3,2
+67ed36910ddb974a3e98939c55ba0fde1636e426,David Lord,2024-05-06,[pre-commit.ci] pre-commit autoupdate (#5477),other,0,0,0,0
+4e894892bc0230c46e998b6ea82b5b07b9943a39,pre-commit-ci[bot],2024-05-06,[pre-commit.ci] pre-commit autoupdate,other,1,1,2,1
+d64ecfb244d38b5f31d6dd8f6a9f55731038c093,David Lord,2024-05-06,Bump the python-requirements group across 1 directory with 6 updates (#5476),chore,0,0,0,0
+860a25c390eba8e6c089a818b02800dd9d789864,David Lord,2024-05-06,fix mypy finding,bugfix,1,1,2,1
+273123f6b8fc0d871553f707e515816777c60e24,dependabot[bot],2024-05-06,Bump the python-requirements group across 1 directory with 6 updates,chore,15,15,30,4
+fc605b575bc454bb89f7f878692970f3bd4b1011,David Lord,2024-05-06,Bump the github-actions group with 2 updates (#5473),chore,0,0,0,0
+a936b0c610ba86f542eb3855de2be674a7b9310b,dependabot[bot],2024-05-06,Bump the github-actions group with 2 updates,chore,5,5,10,2
+4f42c642036e6fdd915dd492b263c3b887cdb2d9,David Lord,2024-05-06,Merge branch '3.0.x',other,0,0,0,0
+eb1182a10e757b5e76009c69fdf3a88a5afc6840,David Lord,2024-05-06,fix mypy finding,bugfix,2,2,4,1
+a363642a32880114c7944b1017f2f69bd4cc00eb,David Lord,2024-05-06,fix mypy finding with new werkzeug endpoint type,feature,1,1,2,1
+57add386c9d3aa5717bb25ed3e216a9538f086fd,David Lord,2024-05-02,examples/javascript: Update Documentation URL in pyproject.toml (#5475),documentation,0,0,0,0
+823e279e0dd40d8818a8d58c12a7df22caae1c04,JamesMRamm,2024-05-02,Update pyproject.toml,other,1,1,2,1
+11c15ddfeb6edcb0978d3407ed972ae441013177,David Lord,2024-04-23,Bump the python-requirements group in /requirements with 3 updates (#5468),chore,0,0,0,0
+224c639bf9f37b99bc66a879fbbc516f59857967,dependabot[bot],2024-04-23,Bump the python-requirements group in /requirements with 3 updates,chore,6,6,12,3
+f48802acbb2d9f29ed3e1bcc5206bd00176cc1e3,David Lord,2024-04-23,Bump the github-actions group across 1 directory with 4 updates (#5470),chore,0,0,0,0
+b7278186c4e16c58a4dbd439eedf716146c19f53,dependabot[bot],2024-04-23,Bump the github-actions group across 1 directory with 4 updates,chore,7,7,14,2
+ccf125bf30102beedafb3ecef72376bfb6c90a4d,David Lord,2024-04-23,fix mypy findings,bugfix,1,1,2,1
+db0fe9436e9da7f7bd14683542bbf33ba3c6d5e4,David Lord,2024-04-23,unignore upload/download-artifact,other,0,6,6,1
+2c7f57ad5bd19743312eb34ea5fb838a1349474e,David Lord,2024-04-08,Merge branch '3.0.x',other,0,0,0,0
+f958b6500b2aeb8edc578a07f00546becdad4c80,David Lord,2024-04-08,build docs from scratch each test,test,1,1,2,1
+346d1abaff0270104ffa3a0e8bee7de279a1cee7,David Lord,2024-04-08,remove install and contribute sections,other,0,20,20,1
+19610a9e46e0989054ecd0f6be2fcb981013d8eb,David Lord,2024-04-07,start version 3.1.0,other,7,1,8,2
+aee16df63bbd7f6a7479fcd01b509f5ebaca3a0d,David Lord,2024-04-07,Merge branch '3.0.x',other,0,0,0,0
+61182249cb3ec5c69a2b91928829f33ccca6c7bc,David Lord,2024-04-07,release version 3.0.3 (#5461),other,0,0,0,0
+c12a5d874c5a014495eb2db8a73f40037bc813ac,David Lord,2024-04-07,release version 3.0.3,other,1,1,2,1
+5e22cc9eec0d1da2da706ccf724fde702b30d5f2,David Lord,2024-04-07,Don't set the cli attribute in the sansio scaffold (#5270),other,0,0,0,0
+5fdce4c331ac530280cc941179d364a07f4a1088,pgjones,2023-10-01,Don't set the cli attribute in the sansio scaffold,other,54,12,66,5
+adb7dd99c295a28726c8d818fba54c7b3f958ecc,David Lord,2024-04-07,don't access app.logger when configuring app.logger,other,1,1,2,1
+b73939095564ec5c088c53e7595b00d174a018f5,David Lord,2024-04-07,support FIPS builds without SHA-1 (#5460),other,0,0,0,0
+db461112c70d5f2bf93c7a6ac27eeb665c232dd0,David Lord,2024-04-07,access sha1 lazily,other,13,1,14,2
+7320e311a0a3f190351173f8be90cab31dadbf73,David Lord,2024-04-07,start version 3.0.3,other,7,1,8,2
+a85575601758b3fd8d1379aa2e16bf1c24ab06f3,David Lord,2024-04-07,Bump the github-actions group with 3 updates (#5459),chore,0,0,0,0
+be508c618411d72281672980abb19b2150581943,dependabot[bot],2024-04-07,Bump the github-actions group with 3 updates,chore,6,6,12,3
+6ab71ed7cf92a2dea7c18ddc9c2b4f3e685ea1fb,David Lord,2024-04-07,Merge branch '3.0.x',other,0,0,0,0
+87d5f5b9a9697434e6d972b021201105eabb54e6,David Lord,2024-04-07,update project files (#5457),other,377,317,694,35
+98a7f9fcf09fce5d32bf25e7f917c1c3026719d1,David Lord,2024-04-06,Use per-release URLs in GH env UI when publishing to the PyPI (#5423),other,0,0,0,0
+0e59442f6cce9442c1dcaf8515df7182312fa6cd,Sviatoslav Sydorenko (Святослав Сидоренко),2024-02-27,Use per-release URLs in GH env UI when publishing to the PyPI,other,5,3,8,1
+b90a4f1f4a370e92054b9cc9db0efcb864f87ebe,David Lord,2024-02-12,[pre-commit.ci] pre-commit autoupdate (#5404),other,0,0,0,0
+ad36383951c130f16e02b5f61b1161da99bc1ca4,pre-commit-ci[bot],2024-02-05,[pre-commit.ci] pre-commit autoupdate,other,1,1,2,1
+6b422a05f37641ca0b84422f2436e9d4bd144376,David Lord,2024-02-03,Merge branch '3.0.x',other,0,0,0,0
+d5e321b792cd6f3cd7b072d175f47eacbd5ee14f,David Lord,2024-02-03,release version 3.0.2 (#5403),other,0,0,0,0
+d2030595dcdc8ca5701504f00255360fb12a3a2b,David Lord,2024-02-03,release version 3.0.2,other,2,2,4,2
+d7209a957004d4758f32fd8b2f89da11f5fe5718,David Lord,2024-02-03,fix super call in list comprehension (#5393),bugfix,0,0,0,0
+1af8f95785b85d0937153ee63d504c0b51934d80,Tony Huang,2024-01-26,fix super call in list comprehension,bugfix,10,1,11,3
+3435d2ff1589eb0c1a85cc294a20985910a1a606,David Lord,2024-02-03,Fix jinja_loader typehint (#5389),bugfix,0,0,0,0
+ecc057dd4857e655f0844b781899a917852042a4,Cody Scott,2024-01-23,fix jinja_loader annotation,bugfix,4,1,5,2
+3207af8827d4162ef5841249c46fbb9da043c551,David Lord,2024-02-03,start version 3.0.2,other,7,1,8,2
+94e80b3da9048372ed857f6175a4d5fd1ca8913b,David Lord,2024-02-03,Bump the python-requirements group in /requirements with 6 updates (#5401),chore,0,0,0,0
+f32dddc71c8538d7d9cf51bf82716b3dfadbc9ec,David Lord,2024-02-03,Bump the github-actions group with 2 updates (#5400),chore,0,0,0,0
+484a7cc9a7ba2540ab2af5141196f5ab5809df33,dependabot[bot],2024-02-01,Bump the python-requirements group in /requirements with 6 updates,chore,12,12,24,4
+a4bada52d0c5442011665eb1ad4bdb61c06d28fe,dependabot[bot],2024-02-01,Bump the github-actions group with 2 updates,chore,3,3,6,2
+4df377cfbfc1d15e962a61c18920b22aebc9aa41,David Lord,2024-01-18,Merge branch '3.0.x',other,0,0,0,0
+233be7a0fa8b2a77189ae9a2fc47c579245a2f3d,David Lord,2024-01-18,release version 3.0.1 (#5386),other,0,0,0,0
+f622b1cadea2bed4ea4cc476695e9c181ec5da11,David Lord,2024-01-18,release version 3.0.1,other,2,2,4,2
+5fcc999b7df0f5cc71cfd9b74ea494b96486f84f,David Lord,2024-01-18,fix create release action,bugfix,3,2,5,1
+da3a0ddfe2de5be718a2d7cb3021f350bf04c402,David Lord,2024-01-18,fix slsa generator version,bugfix,2,1,3,1
+5e059be1b327f2f2f64115d2897c5864eff69b7d,David Lord,2024-01-18,update actions versions,chore,13,21,34,3
+bae6ee888f647f15fabb91d21bf28314737be1c6,David Lord,2024-01-18,address mypy strict findings (#5383),other,0,0,0,0
+81b3c85f51834a06bc8fbecf350bc20d756d8026,David Lord,2024-01-18,update requirements,other,42,48,90,3
+08d3185e87cfeccc4bf4d26ee5c4c0dfd4ec8564,David Lord,2024-01-16,update pre-commit hooks,other,3,3,6,3
+6000e80acf931b05b4911c3fa7f3ba33e2b80e64,David Lord,2023-12-14,address mypy strict findings,other,346,234,580,24
+7b5e176d1ab23e183d0403573358299ed6562dce,David Lord,2024-01-15,[pre-commit.ci] pre-commit autoupdate (#5377),other,0,0,0,0
+5a48a0fe6b02f62f9a0d90257c6a14d280bc9d23,David Lord,2024-01-15,untag without `object_hook` (#5382),other,0,0,0,0
+700fc7d928b7a625b04e6865b3eb282043e90f7d,David Lord,2024-01-15,untag without object_hook,other,16,1,17,2
+8fdab74cc80c39f45aa65da5dd029c8d262756c3,pre-commit-ci[bot],2024-01-01,[pre-commit.ci] auto fixes from pre-commit.com hooks,other,1,1,2,1
+24ec38d6a0686f1a147420ebf4b31f5243e1cb42,pre-commit-ci[bot],2024-01-01,[pre-commit.ci] pre-commit autoupdate,other,1,1,2,1
+c2f65dd1cfff0672b902fd5b30815f0b4137214c,David Lord,2024-01-01,Bump the python-requirements group in /requirements with 3 updates (#5374),chore,0,0,0,0
+63ff4185f9d1306c3bd54489f1adb88e7b48e588,dependabot[bot],2024-01-01,Bump the python-requirements group in /requirements with 3 updates,chore,5,5,10,3
+708d62d7172a30c5b0ace1d212c5a3bc2b53b98c,David Lord,2023-12-13,Merge branch '3.0.x',other,0,0,0,0
+c275573147b426fbe1a37c6bce143f7895b603b2,David Lord,2023-12-13,run typing tests,other,1,1,2,1
+12a1c4940d3fe2fc68a7ca68df48c3f04941c53c,David Lord,2023-12-13,Merge branch '3.0.x',other,0,0,0,0
+77f6c72cf930ae2e3c5d4dd63e7cbc4699382916,David Lord,2023-12-13,Update docs to address redesigned macOS settings app (#5355),other,0,0,0,0
+8a66990c6161b30422359244a052805dc98a5059,Ben Huebscher,2023-12-05,Update docs to address redesigned macOS settings app,other,2,2,4,1
+05eebe36abe923d065133792f14d4ab6c07336a0,David Lord,2023-12-13,fix missing quote in `--key` error message (#5344),bugfix,0,0,0,0
+1d5abfadd7132c9a78e14e5ba6c07aed47115280,lizard,2023-11-24,Fixing issue 5342: 'The double quote is missing in the string',bugfix,4,1,5,2
+399aa8531c60faee26333bcdae5a70b01bae2d54,David Lord,2023-12-13,Bump the python-requirements group in /requirements with 3 updates (#5351),chore,0,0,0,0
+b55ccae72aba110ae08e8ef0a9cfb8649750594a,dependabot[bot],2023-12-01,Bump the python-requirements group in /requirements with 3 updates,chore,6,6,12,3
+089f6a1c50ea2b18287106ecd357522bab200510,David Lord,2023-12-04,Bump the github-actions group with 2 updates (#5352),chore,0,0,0,0
+b64f848d2c1f8fe9aed3acb10f68f6c8bb1271f1,David Lord,2023-12-04,[pre-commit.ci] pre-commit autoupdate (#5354),other,0,0,0,0
+452b78f24331c9805075cc0572128a91f4345e32,pre-commit-ci[bot],2023-12-04,[pre-commit.ci] pre-commit autoupdate,other,1,1,2,1
+78ced0093ade22a5de43ce3da98a4c2526022fbf,dependabot[bot],2023-12-01,Bump the github-actions group with 2 updates,chore,3,3,6,2
+d61198941adcb191ddb591f08d7d912e40bde8bc,David Lord,2023-11-15,Merge branch '3.0.x',other,0,0,0,0
+b97165db75c6f4e99c3307b4a5a1f3b0d9f4de25,David Lord,2023-11-15,type hint fix for flask.send_file (#5336),bugfix,0,0,0,0
+4104f29956b16f3e351462651ec3c6cc5a0dd069,Daniel Isaac,2023-11-13,type hint fix for flask.send_file,bugfix,3,1,4,2
+66743d4f9d865775258c845db339d3fcccd016b5,David Lord,2023-11-15,start version 3.0.1,other,7,1,8,2
+258311d09891c9d72fedee39cde2564cfefdc55d,David Lord,2023-11-15,Merge branch '3.0.x',other,0,0,0,0
+5308db0637dcc4592286ab0e6accbdd0604db494,David Lord,2023-11-15,update pre-commit hooks,other,2,2,4,1
+59fd6aa1049808f2bf2c6b3bd309ddfe9d9f6809,David Lord,2023-11-09,use pip-compile instead of pip-compile-multi,other,201,118,319,15
+560383fe14b29d05e62d1242fd2713a3b7f84c8e,David Lord,2023-11-09,update python version matrix,chore,6,9,15,1
+627703656714c7011a5c7b65214cbf6ee07e3c23,David Lord,2023-11-09,update read the docs env,other,2,2,4,1
+ce27ddeba1d4dec15758bc9d660316a6060bc7f3,David Lord,2023-11-15,Merge branch '3.0.x',other,0,0,0,0
+54e05a282428e9a44dbd414ca70231a83ebd710d,David Lord,2023-11-09,use ruff linter and formatter,other,99,132,231,26
+9a12f34bbee68a14301bc234f50c4a9fea9003fd,David Lord,2023-11-09,use ruff linter and formatter (#5331),other,0,0,0,0
+54ff9b297276a3add08c8faf1557b5e359b3ab99,David Lord,2023-11-09,use ruff linter and formatter,other,99,128,227,26
+6edfd78c9ff1fc349bcf5356097fe9453e3c7551,David Lord,2023-11-09,Bump the github-actions group with 4 updates (#5330),chore,0,0,0,0
+4431ada1a2615c30fedf200b28cbb80c38250e7c,dependabot[bot],2023-11-09,Bump the github-actions group with 4 updates,chore,6,6,12,2
+24653528ccb2b5ff017dd9b0d4afabfe93e2ea43,David Lord,2023-11-09,use pip-compile and dependabot grouped updates (#5329),other,0,0,0,0
+33d888622676073a5cd9d5f268933de82a0345c0,David Lord,2023-11-09,enable grouped updates for actions and python,other,16,7,23,1
+04920b30765a5884c5b6516c66feea6df0b5282f,David Lord,2023-11-09,use pip-compile instead of pip-compile-multi,other,201,122,323,16
+6ee5dcc0ec93e8c11e5362f1e151d99168d6d2e6,David Lord,2023-11-09,update python version matrix,chore,6,9,15,1
+c4bfd367e2f1f26838de46d0cfa2d512985f42a3,David Lord,2023-11-09,update description,other,5,5,10,1
+29f1bd22d75cab1b0433339425fabd21b8229228,David Lord,2023-11-09,update read the docs env,other,2,2,4,1
+8d9519df093864ff90ca446d4af2dc8facd3c542,David Lord,2023-10-28,Update link to hypercorn (#5313),other,0,0,0,0
+7af0271f4703a71beef8e26d1f5f6f8da04100e6,Resistor-git,2023-10-28,Initial commit,other,0,0,0,0
+be6ec06894b55b1b5a360ce3f8178c7963332ccd,Resistor-git,2023-10-28,Fix link to Hypercorn in docs/deploying/asgi.rst - they moved from gitlab from github.,bugfix,1,1,2,1
+beedaa4eff3919f250fad49a5092cf07c4d638e1,David Lord,2023-10-20,docs/testing.rst: fix follow_redirects sample code (#5303),bugfix,0,0,0,0
+bb9937593de3917d17c2da1fc55489f10bb3c8b2,Arnout Engelen,2023-10-20,docs/testing.rst: fix follow_redirects sample code,bugfix,1,1,2,1
+541bc8dfc2263cfa1ab2f209ce6132e1835cac9b,Iztok Fister Jr,2023-10-07,examples/javascript: replace obsolete link (#5287),other,1,1,2,1
+3652ecd9e0a3aa6595a559e2a231b11ead8a156c,Akinola Abiodun Emmanuel,2023-10-07,Update index.rst (#5291),other,5,1,6,1
+14232513fd618be02e0ab4b223f3105fcdde3cfe,pgjones,2023-09-16,Release version 3.0.0,other,2,2,4,2
+3252f2bc546759a94f7a4c4938ef561d7bb6a6ec,pgjones,2023-09-30,Bump Werkzeug 3.0.0,chore,5,4,9,4
+438edcdf01c392619449a6bdbb18f6cf72ef7bb9,pgjones,2023-09-24,Allow self as an argument to url_for,other,9,0,9,3
+b7c1290528f907c9f41afcdfd33a2227c73e26d3,nick2202,2023-09-22,Fix wrong spelling of JS method .innerHTML,bugfix,1,1,2,1
+8037487165a196015a646de25cbce6d0351c8fc4,David Lord,2023-09-05,Bump pypa/gh-action-pypi-publish from 1.8.8 to 1.8.10 (#5248),chore,0,0,0,0
+e8076d911490870a27122e4b34230090e6d1fc10,David Lord,2023-09-05,Bump slsa-framework/slsa-github-generator from 1.7.0 to 1.9.0 (#5247),chore,0,0,0,0
+ecc4a38b7cf95bcf8dfd9e4e6f77492977e255d3,David Lord,2023-09-05,Bump actions/checkout from 3.5.3 to 3.6.0 (#5246),chore,0,0,0,0
+24c6508d39ad7fabd4c017b9a47d12539ea6b708,dependabot[bot],2023-09-01,Bump pypa/gh-action-pypi-publish from 1.8.8 to 1.8.10,chore,2,2,4,1
+98cef9fcca23677f436b2d6d7297d14bb93b59fc,dependabot[bot],2023-09-01,Bump slsa-framework/slsa-github-generator from 1.7.0 to 1.9.0,chore,1,1,2,1
+0c97a411b430f96694e9980515b5e253ad999327,dependabot[bot],2023-09-01,Bump actions/checkout from 3.5.3 to 3.6.0,chore,2,2,4,2
+faef9a0fcef307f1a1c380a477b392fa4371d83d,David Lord,2023-08-29,deprecate `__version__` attribute (#5242),other,0,0,0,0
+293041a290178dc1d526075372960c3ca589d366,David Lord,2023-08-29,deprecate __version__ attribute,other,23,2,25,3
+153433f612585409f3494a3c44160d888c02612d,David Lord,2023-08-27,Merge remote-tracking branch 'origin/2.3.x',other,0,0,0,0
+65271c105f7c247ecffc9a7121815276e092bd10,pgjones,2023-08-27,Remove print left in by accident,other,0,1,1,1
+a6007373b5c521297e2ec24f820b9c7c32659af8,David Lord,2023-08-21,release version 2.3.3 (#5232),other,0,0,0,0
+3205b53c7cf69d17fee49cac6b84978175b7dd73,David Lord,2023-08-21,release version 2.3.3,other,2,2,4,2
+9f9550247a2798b9dcc28081c15e266442f4e28a,David Lord,2023-08-21,bump werkzeug 2.3.7,chore,50,36,86,8
+90967ccb9ab1f757c2637a68ea2e16b8da2605f4,David Lord,2023-08-21,bump werkzeug 2.3.7 (#5231),chore,0,0,0,0
+5bb30270d2e68d8d9278ac6f5abf67049acba662,David Lord,2023-08-21,bump werkzeug 2.3.7,chore,50,36,86,8
+1d8b53f782570b56296d7682cbbf104b6737e805,David Lord,2023-08-20,Split the App and Blueprint into Sansio and IO parts (#5127),other,0,0,0,0
+bc5dd3894b4b19e07abfe6a23d87d66c02e4061f,pgjones,2023-08-19,Add a changelog for the sans-io changes,feature,2,0,2,1
+318592511c9c7156599fd02e3edf625097ecb434,pgjones,2023-08-15,Add a brief README to the sansio,feature,6,0,6,1
+80cf589a26d792820f135591eb8007bca891bf4f,pgjones,2023-08-14,Correct the error handler typing,bugfix,4,1,5,1
+cc80a47f5be6c60e53c42ef9378e6db3b0e183b1,pgjones,2023-07-16,Widen the response typing,other,1,1,2,1
+3f6b243cec6859185ea4064e84b33c07cc7febf6,pgjones,2023-07-15,Support async template context processors,other,5,2,7,2
+72c85e80c8ef9e6d5b5644f7bb23cdc175ca3873,pgjones,2023-07-15,Provide an extendable merge blueprint funcs method,other,31,31,62,1
+0ec7f713d679ceed2c605e62ac5d38d579f29fa0,pgjones,2023-06-11,Split the App and Blueprint into Sansio and IO parts,other,1622,1353,2975,10
+a64588f87a2bd7ba557814ec039e3b2af2ce842d,pgjones,2023-06-10,Move file to sansio,other,0,0,0,3
+0e0e8ddcdc2bd572cdecd371bc0f309ac62ee9c4,David Lord,2023-08-16,remove deprecated code (#5223),other,0,0,0,0
+04994df59f2f642e52ba46ca656088bcdb931262,David Lord,2023-08-16,remove deprecated code,other,3,225,228,7
+6a12b191f7058a179237b4b3dfc146e559777d9b,David Lord,2023-08-16,start version 3.0.0,other,7,1,8,2
+9e9acfb3fe5cf33549da1a8324b395e1fb4145b0,David Lord,2023-08-16,Merge branch '2.3.x',other,0,0,0,0
+02736640095ed6d5a4a409a9658eaca373fd1d48,David Lord,2023-08-16,Update dispatch by path example (#5217),other,0,0,0,0
+a887e179b8af6a9c582a7918f9f8499ab58032cc,David Lord,2023-08-16,clean up,refactor,20,24,44,1
+aa6d4c3e92bd11a7d449f49f524e54bbb88b89c0,pavithra,2023-08-13,update dispatch-by-path example,other,10,3,13,1
+6d49a1e4b74fe4361cc8ab58767effece56c1f0c,David Lord,2023-08-16,Merge branch '2.3.x',other,0,0,0,0
+826514b8eb18f6c314cf566630253d35c89e42c3,David Lord,2023-08-16,fix flake8 bugbear findings,bugfix,4,4,8,1
+c49ce2e1eb8b598e724388bead0943837bab8027,David Lord,2023-08-16,fix flake8 bugbear findings,bugfix,4,4,8,1
+3237fff4b86227a84913d3885b600738bb9479a0,David Lord,2023-08-16,Merge branch '2.3.x',other,0,0,0,0
+6d266f63633f5f127165d4ef836db14a59bbc106,David Lord,2023-08-16,Pass maxsplit via kwarg to re.split (#5215),other,0,0,0,0
+17e146ad949b3d80438faf95e81b53c543cb50f5,hauntsaninja,2023-08-08,Pass maxsplit via kwarg to re.split,other,1,1,2,1
+80ae10f402facf375be30eb62fdaf0d34d57a66d,David Lord,2023-08-16,update dev requirements,other,34,29,63,4
+7d399e80c34df8daff66f45b74fdde0edd58d63c,David Lord,2023-08-16,Merge branch '2.3.x',other,0,0,0,0
+b1385919bea3238d49a6e2cfc8261771775cd6e9,David Lord,2023-08-01,Bump pypa/gh-action-pypi-publish from 1.8.7 to 1.8.8 (#5213),chore,0,0,0,0
+6a5277d3417b30d6e7f5c93745e8a445dcb02b1c,David Lord,2023-08-01,Bump actions/setup-python from 4.6.1 to 4.7.0 (#5212),chore,0,0,0,0
+dcc86ebfce71bf2829bce429134d6424355f159a,dependabot[bot],2023-08-01,Bump pypa/gh-action-pypi-publish from 1.8.7 to 1.8.8,chore,2,2,4,1
+180ff8853c69240a3d214734da8d78f8d4d6f0bc,dependabot[bot],2023-08-01,Bump actions/setup-python from 4.6.1 to 4.7.0,chore,2,2,4,2
+8a72b741616556b4f739ea79ab502c2d2038844a,David Lord,2023-08-01,[pre-commit.ci] pre-commit autoupdate (#5211),other,0,0,0,0
+7255be9626ab56d81bc0ab86db939fcc1da9bca1,pre-commit-ci[bot],2023-08-01,[pre-commit.ci] pre-commit autoupdate,other,3,3,6,1
+f215de030e4bb66205e39c786437b41aa86a5dd6,David Lord,2023-07-04,[pre-commit.ci] pre-commit autoupdate (#5187),other,0,0,0,0
+65bc7636348a9ca32ccafb9f685ab4377e1e446d,pre-commit-ci[bot],2023-07-04,[pre-commit.ci] pre-commit autoupdate,other,1,1,2,1
+a0db8908530769e83f388d6b61438a6a2ee0bded,David Lord,2023-07-03,Update install.rst with required description (#5182),other,0,0,0,0
+11da927fd993c941618a67b443cc0649402f4de0,Pamela Fox,2023-07-01,Update install.rst with required description,other,1,0,1,1
+cb825687a592709f902f3d320d93987a0546fd28,David Lord,2023-07-01,Bump actions/checkout from 3.5.2 to 3.5.3 (#5186),chore,0,0,0,0
+51bf0fdd9018d63b7bc09db52a66b726c2c4bad8,David Lord,2023-07-01,Bump slsa-framework/slsa-github-generator from 1.6.0 to 1.7.0 (#5185),chore,0,0,0,0
+0da5788efbda92b6b6239352c2b9a835efe0888f,David Lord,2023-07-01,Bump dessant/lock-threads from 4.0.0 to 4.0.1 (#5184),chore,0,0,0,0
+326484a8d107c3af490d7d294c17832afabae785,David Lord,2023-07-01,Bump pypa/gh-action-pypi-publish from 1.8.6 to 1.8.7 (#5183),chore,0,0,0,0
+1ce4d95de92fdd9423c295bf9b63117817fab3bf,dependabot[bot],2023-07-01,Bump actions/checkout from 3.5.2 to 3.5.3,chore,2,2,4,2
+1fb188636e6a21e9c1fefdf4dd8c671dd3f332d6,dependabot[bot],2023-07-01,Bump slsa-framework/slsa-github-generator from 1.6.0 to 1.7.0,chore,1,1,2,1
+f62580b947e3be4d8b5ef5fa486d1472884aacd5,dependabot[bot],2023-07-01,Bump dessant/lock-threads from 4.0.0 to 4.0.1,chore,1,1,2,1
+47a89da558e240148ced28ddcc4e709a4be4955a,dependabot[bot],2023-07-01,Bump pypa/gh-action-pypi-publish from 1.8.6 to 1.8.7,chore,2,2,4,1
+09789f2a34633be446f7fa04955e55a373b36302,David Lord,2023-06-29,fix typo in errorhandling doc (#5180),bugfix,0,0,0,0
+aea13d5a100b03758fecb88a34daeab4f8aa8426,ToolMoney,2023-06-29,fix typo in errorhandling doc,bugfix,1,1,2,1
+15a0d4afd481a7f8f7dcf3b45da7175ed14226c5,David Lord,2023-06-27,Merge branch '2.3.x',other,0,0,0,0
+f39c71609e9372bec8beb01c5aea3957ec2d1a9b,David Lord,2023-06-27,remove manifest.in,other,0,11,11,1
+3c85ec953f15fe3be339a136181fa1483320f65a,David Lord,2023-06-27,use flit_core as build backend (#5177),other,0,0,0,0
+6b9acd565cded9c805760037b69754c11749c830,David Lord,2023-06-27,switch docs to flit,other,10,32,42,7
+46b328854a1ec1e892da02f523b2ed0745fe69e2,David Lord,2023-06-27,switch examples to flit,other,21,17,38,5
+f38f3a745ab2f90084f495403ed28d4fc27e4b50,David Lord,2023-06-27,switch to flit build backend,other,20,5,25,2
+b1bdd9756478f178680fa119514a58b4b48efc38,David Lord,2023-06-27,Merge branch '2.3.x',other,0,0,0,0
+d67c47b81f4cbfda79f108a8ee4a183855127efb,David Lord,2023-06-27,simplify tox config,other,0,8,8,1
+7bfbcfab8725a5e469acf2b84f6061d6afb2f649,David Lord,2023-06-27,Merge branch '2.3.x',other,0,0,0,0
+8933d7544395aeaa91c66d9f26d10b4fe2e92d7b,David Lord,2023-06-27,update pypy test version,test,2,2,4,2
+cc55d7b3cfb816575beef1011693f5cae6c2d3b5,David Lord,2023-06-27,Merge branch '2.3.x',other,0,0,0,0
+aca7d5637d0c1c95b961e3396039869c6e981e23,David Lord,2023-06-27,update dependencies,other,17,19,36,7
+ec2b2394dccb02dac919b024608e9980f16459f6,David Lord,2023-06-21,update import of declarative_base from SQLAlchemy (#5171),other,0,0,0,0
+a7ae372f2f58343a7eb56209f29eb9879e171b58,mohammad m. moniri,2023-06-21,update import of declarative_base from SQLAlchemy,other,1,2,3,1
+4bcd4be6b7d69521115ef695a379361732bcaea6,David Lord,2023-06-09,Merge branch '2.3.x',other,0,0,0,0
+8e33b7b3e254f2a93101bcce21f85ff203831a4c,David Lord,2023-06-09,update werkzeug requirement,other,2,2,4,2
+4be9f521425b7ad659b182c319dc3afb8fe64f53,David Lord,2023-06-09,fix use of `importlib.util.find_spec` (#5161),bugfix,0,0,0,0
+bda295d37fa3809c95a93d01dd605d0222109889,David Lord,2023-06-09,fix use of importlib.util.find_spec,bugfix,39,81,120,3
+4d6ae8273a54e3407ab5046fc0856a9d40097e74,David Lord,2023-06-08,Merge branch '2.3.x',other,0,0,0,0
+c8cf4694c60f0d81809468a1b45ec730496cc546,David Lord,2023-06-08,unpin sphinx and sphinx-tabs,other,9,11,20,2
+935ee742b49cfcda876eaf366d53bf150bcafd44,David Lord,2023-06-07,Merge branch '2.3.x',other,0,0,0,0
+9930b0fe8e739ceb312f9554f9d41b73c2aaa733,David Lord,2023-06-07,Python 3.12 compatibility (#5157),other,0,0,0,0
+ed8ddb6a3a14ae332823b0a266b02a5ef024cbb3,David Lord,2023-06-07,update werkzeug to 2.3.5,other,5,4,9,4
+84e11a1e827c0f55f9b9ee15952eddcf8a6492e0,David Lord,2023-06-07,use importlib instead of pkgutil,other,7,4,11,3
+367e1df785a71e9004d9a87a221652bfc5a964ac,David Lord,2023-06-07,start version 2.3.3,other,7,1,8,2
+2be71d323d87ec5e9f269666f8d08ec5af77eeb8,David Lord,2023-06-07,[pre-commit.ci] pre-commit autoupdate (#5154),other,0,0,0,0
+d614d6bf8c7b6db6f817648836f9044b13dc42b4,David Lord,2023-06-06,ignore pytest ast warnings,test,2,2,4,1
+32d2f47ed1bf3f27fd46e1a54dd136688de9ab81,pre-commit-ci[bot],2023-06-06,[pre-commit.ci] pre-commit autoupdate,other,1,1,2,1
+c9b6110dec52ff483b42b1428221f903bf143788,David Lord,2023-06-06,Merge branch '2.3.x',other,0,0,0,0
+7dbb2f7e05d2c0963e90016b1f7a3a45e98a865a,David Lord,2023-06-06,retarget pre-commit.ci,other,1,1,2,1
+a3e4013f893831adb8c9f2947c29dfeeb47d2145,David Lord,2023-06-01,Bump actions/setup-python from 4.6.0 to 4.6.1 (#5150),chore,0,0,0,0
+fb20cbbf1efbf7dd384171b9cd2587c234f15ddf,David Lord,2023-06-01,Bump pypa/gh-action-pypi-publish from 1.8.5 to 1.8.6 (#5149),chore,0,0,0,0
+c49757a4592f2fbd7ecfa4daccbfe8a4ec14c1e6,David Lord,2023-06-01,Bump slsa-framework/slsa-github-generator from 1.5.0 to 1.6.0 (#5148),chore,0,0,0,0
+18e703bc9341b8066e2b277af5d37b13f5bd3aef,dependabot[bot],2023-06-01,Bump actions/setup-python from 4.6.0 to 4.6.1,chore,2,2,4,2
+fc74a114b3afe87284467f2ccdbeb7a4a8badbc4,dependabot[bot],2023-06-01,Bump pypa/gh-action-pypi-publish from 1.8.5 to 1.8.6,chore,2,2,4,1
+40f31c307848e560336fc8b336fbc2fdc1a478ee,dependabot[bot],2023-06-01,Bump slsa-framework/slsa-github-generator from 1.5.0 to 1.6.0,chore,1,1,2,1
+31fd9c87912a7020a00d83d2135559433173708c,David Lord,2023-05-31,Merge branch '2.3.x',other,0,0,0,0
+38f02e04f4765a2820a2ed4f63ac757598cb02e4,David Lord,2023-05-31,update metadata,other,0,1,1,1
+e7264776bd1373e6283407a75f287b309eeebbae,David Lord,2023-05-31,update dependencies,other,17,17,34,5
+ae07dead24d5aa81b4ee9e3f0550eabb173f5455,David Lord,2023-05-31,Merge pull request #5140 from Jeroendevr/patch-1,other,0,0,0,0
+0f477df86a8c953cb5e4df0bd90266345140b114,Jeroendevr,2023-05-24,Config from Data Files to match from_file API,other,2,2,4,1
+55332be325a9f1a5882a309951f1f7db510036dd,Pedro Guilherme S. Moreira,2023-05-18,docs: fix wrong JS syntax (#5136),bugfix,2,2,4,1
+b80baaf35985a9a48f2db903a21b6ee7e7cc7340,David Lord,2023-05-14,Merge pull request #5126 from pgjones/pathlike,other,0,0,0,0
+2abb7513dc52e9d9f2c73dde91f3b89d8f9492e4,pgjones,2023-05-14,Allow for PathLike types for config file variables,other,5,3,8,1
+d0bf462866289ad8bfe29b6e4e1e0f531003ab34,David Lord,2023-05-09,Merge branch '2.3.x',other,0,0,0,0
+4911012cf426af25668e5d9beb756a732ca1a4f4,David Lord,2023-05-09,update workflows,other,3,8,11,2
+57e926c7916ef5fd7d4abac965273ea185e497d2,David Lord,2023-05-02,Merge branch '2.3.x',other,0,0,0,0
+859d63902e5c9549fda4c167e9787a42c0136413,David Lord,2023-05-02,Merge pull request #5111 from pallets/update-tests,other,0,0,0,0
+0a00e1b6085f62fb776a95ef676ea661bff565f6,David Lord,2023-05-02,use tmp_path instead of tmpdir,other,59,64,123,4
+1d7281fe0770a97229a2a75189a712cff866b448,David Lord,2023-05-02,remove egg test,test,1,56,57,3
+e374853c75e49c950195a57de8e19308db5bf902,David Lord,2023-05-02,Merge branch '2.3.x',other,0,0,0,0
+97c830190ff839b89b85c93781f3603f95365384,David Lord,2023-05-02,Merge branch '2.2.x' into 2.3.x,other,0,0,0,0
+bda08b11c692a5c94124b11749c1af6fa5c0e003,David Lord,2023-05-02,Merge pull request #5110 from pallets/release-2.2.5,other,0,0,0,0
+47af817c8fe01045c641b97f8fb784c7ad864eee,David Lord,2023-05-02,release version 2.2.5,other,2,2,4,2
+afd63b16170b7c047f5758eb910c416511e9c965,David Lord,2023-05-02,Merge pull request #5109 from pallets/backport-vary-cookie,other,0,0,0,0
+ca12e8ebb7753d4a982584c2909ad9c7e5c2b029,David Lord,2023-05-02,update dependencies,other,15,13,28,4
+8646edca6f47e2cd57464081b3911218d4734f8d,David Lord,2023-05-01,set `Vary: Cookie` header consistently for session,other,30,4,34,3
+a6367dac747c1e149c60767eee7e8aa9c281c58e,David Lord,2023-05-02,Merge pull request #5108 from pallets/werkzeug-compat,other,0,0,0,0
+3fbfbad79fe294918459b70eb409d555b20de2c8,David Lord,2023-05-02,werkzeug 2.3.3 compatibility,other,16,3,19,2
+726d3f4fa9e8a2960541debc2d2713571da54441,David Lord,2023-05-02,start version 2.2.5,other,7,1,8,2
+7b31099252cca1d7a5fab121cb646f78538ad7bb,David Lord,2023-05-01,Merge pull request #5106 from pallets/dependabot/github_actions/pypa/gh-action-pypi-publish-1.8.5,other,0,0,0,0
+723091b903c0a355bbb67778b3236317e5aff3f7,David Lord,2023-05-01,Merge pull request #5104 from pallets/dependabot/github_actions/actions/checkout-3.5.2,other,0,0,0,0
+dcd25d8f07be14508c7f8182d9f9cc4365eb96fe,dependabot[bot],2023-05-01,Bump actions/checkout from 3.5.0 to 3.5.2,chore,2,2,4,2
+1e160c199bc5e76133e77f7cf0a16d21ae956078,David Lord,2023-05-01,Merge pull request #5105 from pallets/dependabot/github_actions/actions/setup-python-4.6.0,other,0,0,0,0
+ec8ca69195174a6526a6006d804841c0124eeccf,dependabot[bot],2023-05-01,Bump pypa/gh-action-pypi-publish from 1.8.4 to 1.8.5,chore,2,2,4,1
+b7b753b96c36f0704c7c2729f6564aa6c34797a6,dependabot[bot],2023-05-01,Bump actions/setup-python from 4.5.0 to 4.6.0,chore,2,2,4,2
+0afeb1d11cad9aa42ef25cc20b10dcd67c8cf3c9,David Lord,2023-05-01,fix release date,bugfix,1,1,2,1
+4cf8b78c6c674048a393acf0280f08761a5cb2a5,David Lord,2023-05-01,Merge pull request #5102 from pallets/release-2.3.2,other,0,0,0,0
+f3b8f570545200c87465d18386f3fc9f2258307a,David Lord,2023-05-01,release version 2.3.2,other,2,2,4,2
+c990bba94ab9bc81adf2d33e83c9a9628a2098f2,David Lord,2023-05-01,update min test env,test,3,3,6,2
+adedb2a64ea7703369bc89021710b439ee79f8dc,David Lord,2023-05-01,Merge pull request #5101 from pallets/update-werkzeug,other,0,0,0,0
+e1aedecdc689cc9a79131851dbdabf6c3bc49c9e,David Lord,2023-05-01,update werkzeug,other,10,20,30,3
+37badc3ce8b0665e3454547839196a676729309f,David Lord,2023-05-01,update changelog,other,3,0,3,1
+70f906c51ce49c485f1d355703e9cc3386b1cc2b,David Lord,2023-05-01,Merge pull request from GHSA-m2qf-hxjv-5gpq,other,0,0,0,0
+8705dd39c4fa563ea0fe0bf84c85da8fcc98b88d,David Lord,2023-05-01,set `Vary: Cookie` header consistently for session,other,29,4,33,2
+9532cba45d2339e90ebf04f178b1e4f2064e7328,David Lord,2023-05-01,fix mypy finding,bugfix,1,1,2,1
+0bc7356ce1ae11e633426902aba76d525f4523da,David Lord,2023-05-01,start version 2.3.2,other,7,1,8,2
+f07fb2b607c1eaa724ca9bfe43e2dc20d97d34de,David Lord,2023-04-25,Merge pull request #5086 from pallets/release-2.3.1,other,0,0,0,0
+721abdc3810057269503a72d2db80fb826f3c85c,David Lord,2023-04-25,release version 2.3.1,other,2,2,4,2
+0867dce42c1a193bfe7fb5f92f0ccaa622643f48,David Lord,2023-04-25,Merge pull request #5085 from lucaswerkmeister/patch-1,other,0,0,0,0
+0ec9192cf25f5187d6521f2539489fa8d55336bb,Lucas Werkmeister,2023-04-25,fix importing Markup from flask,bugfix,3,1,4,2
+345f18442ceb29f9e365af99fc85bdc5986323d2,David Lord,2023-04-25,start version 2.3.1,other,7,1,8,2
+5f4072423ec6ee0c71d5995bec41e59d044e7737,David Lord,2023-04-25,Merge pull request #5083 from pallets/release-2.3.0,other,0,0,0,0
+8728c3e4cd4e929a4327d917acd4b96c75f963d0,David Lord,2023-04-25,release version 2.3.0,other,2,2,4,2
+eb33b8c8096322becac743fb6eb466aebf7af6b9,David Lord,2023-04-25,Merge pull request #5082 from pallets/minimum-requirements,other,0,0,0,0
+79ebf6c39cba01b240a926b899b7d0828e63fc4b,David Lord,2023-04-25,update minimum requirements,other,16,14,30,5
+73739a29f4c16cf539b57e711a4ea2a686cd707a,David Lord,2023-04-25,Merge branch '2.2.x',other,0,0,0,0
+ddc7accaa2e83b328f969c120af2ce0804876b4a,David Lord,2023-04-25,Merge pull request #5081 from pallets/release-2.2.4,other,0,0,0,0
+cd1b68cf6ebb214bfc8cf9bc233c593f15580172,David Lord,2023-04-25,Merge branch '2.2.x',other,0,0,0,0
+74e03298200e33951ca350a35aa3a8c0b4ff8177,David Lord,2023-04-25,release version 2.2.4,other,2,2,4,2
+2d460685b1b3d66c713739ee91183c22fb2e5dc8,David Lord,2023-04-25,update dev env,other,1,1,2,1
+64bc45874daf4b9828830ea0037a19beb8364ee3,David Lord,2023-04-25,update dev dependencies,other,8,8,16,4
+427e5dc4f3d82b67a75f4be21360818fd4fbf05e,David Lord,2023-04-25,update dev env,other,1,1,2,1
+0c5f18ab9168f9b7a8f3a6fa6509c8b20ac8720d,David Lord,2023-04-24,Merge pull request #5077 from EtiennePelletier/master,other,0,0,0,0
+d48deba27331f11e19599af2a5b6e64476fd90da,EtiennePelletier,2023-04-24,Remove double period in signals documentation page,documentation,1,1,2,1
+2b2a7641430bc7d40dba3c8d701636fc9b16530c,David Lord,2023-04-20,Merge pull request #5073 from pallets/new-logo,feature,0,0,0,0
+83d777bebfb3031de51d458b47d06e8e612f3a3d,David Lord,2023-04-20,use new logo,feature,11,503,514,13
+b4345cb4eb692c58d00579543228946ee5ad7510,David Lord,2023-04-20,Merge pull request #5072 from pallets/drop-py37,other,0,0,0,0
+2e8fe7b2f2b541a60c90c625446647b22c5cacc2,David Lord,2023-04-20,drop support for python 3.7,other,19,40,59,14
+9659b11a45281662c6aa1194dc95b46b1f566ba6,David Lord,2023-04-20,remove pypy 3.8 and 3.7 from tests,other,3,3,6,2
+f139024b1ca637cc6df694f49817bdb8ec294561,David Lord,2023-04-20,remove old links,other,0,5,5,3
+a4ea5df5d565128118b6ceaaf372233eef23e238,David Lord,2023-04-20,Merge pull request #5071 from pallets/future-annotations,other,0,0,0,0
+44ffe6c6d6c90a414de32db1b03d5978f8770271,David Lord,2023-04-20,add __future__ annotations,feature,277,262,539,19
+cfa863c357c4a40cfc11fe1b9a4f36d8e75cf52f,David Lord,2023-04-15,Merge branch '2.2.x',other,0,0,0,0
+db7d2d2d685c004ea8da6cbcc7c56ecc36276632,David Lord,2023-04-15,Merge pull request #5067 from pallets/tox-constraints,other,0,0,0,0
+a67195e0598f7fa4481e366527600cf0b46ae78e,David Lord,2023-04-15,update dependencies,other,7,9,16,5
+7e6e68aed91c4c36142f6f1d32c0d74ac75e65be,David Lord,2023-04-15,enforce minimum versions in env,other,12,15,27,6
+a1d0eda7891917fdea272ac06a85cc2903824d17,David Lord,2023-04-15,Merge pull request #5066 from pallets/docs-passthrough,other,0,0,0,0
+5bba529dfc9021a3df8fba96658a05f605e20afe,David Lord,2023-04-15,document passthrough_errors,other,20,8,28,1
+9a4d370ea221b13d7fff5e2120007986c08f85fb,David Lord,2023-04-15,fix typo,bugfix,1,1,2,1
+6931b252935188744415b301ab2e3d3bd5ee5498,David Lord,2023-04-14,Merge pull request #5063 from pallets/cli-routes-domain,other,0,0,0,0
+84c007d34f7f0b8737310fe4d67be12c463e0130,David Lord,2023-04-14,show subdomain or host in routes output,other,69,49,118,3
+182ce3dd15dfa3537391c3efaf9c3ff407d134d4,emisargent,2023-04-13,Add a devcontainer configuration (#4969),feature,75,38,113,3
+49498a323b8f5d5399a18dedacdc28d88cc78b83,David Lord,2023-04-13,Merge pull request #5059 from pallets/oidc-publish,other,0,0,0,0
+f7d9956c0f0e9a80b1d345adac191f6ebd0ffee4,David Lord,2023-04-13,use oidc instead of token,other,2,2,4,1
+59f81950fe4fb059ad58b8b8c171831ae5214460,David Lord,2023-04-13,Merge pull request #5049 from pgjones/signals,other,0,0,0,0
+8239765a4410d13d489e299a99e4a4c6951e190b,pgjones,2023-04-10,allow async signal receivers,other,25,12,37,5
+a05c0c6b7232aac38899234a6c4f071f9005a502,David Lord,2023-04-13,Merge pull request #5058 from pallets/require-blinker,other,0,0,0,0
+9cb1a7a52d7927071e2b737d52f902f006969e82,David Lord,2023-04-13,"blinker is required, signals are always available",other,82,168,250,18
+e1e4e82096efbf25aa3c65b706aec60f1b00dec7,David Lord,2023-04-12,Merge pull request #5034 from adamtheturtle/default-mimetype-optional,other,0,0,0,0
+b626a9387900a9f717eb42765275adc0bf0875e3,Adam Dangoor,2023-03-26,Allow Response subclasses to set default_mimetype as None,other,1,1,2,1
+87698a2d5d67bfd828e268f01884bcbbe33d2076,David Lord,2023-04-12,Merge pull request #5029 from lettow-humain/main,other,0,0,0,0
+c67bfe551d016b15d0a2df89c985d8030387bf1e,lettow-humain,2023-03-17,fix parentheses,bugfix,1,1,2,1
+c9a5660cfd0be150b598325697f6f19019af0ef8,David Lord,2023-04-12,Merge pull request #5054 from pallets/session-domain,other,0,0,0,0
+c24f8c8199f8ceda7a7cfb5e91773eba595f5b67,David Lord,2023-04-12,no cookie domain by default,other,34,125,159,5
+fa0ceb62f26579c3c7d9e18926af3e6f3e6e425c,David Lord,2023-04-12,Merge branch '2.2.x',other,0,0,0,0
+694183ce22a0f63f5e5020dd799c2bd4dd5272a1,David Lord,2023-04-12,Merge pull request #5053 from pallets/werkzeug-compat,other,0,0,0,0
+04c21387dbc454fb59cae9c9bb21a13358cb5a34,David Lord,2023-04-12,update test cookie handling for Werkzeug 2.3,test,49,60,109,4
+67c4c7bac2fcd582ebb3474284a7c8a1e737c878,David Lord,2023-04-11,ignore warning from pytest due to change in Python 3.12 alpha,test,5,1,6,1
+e39d78a0ad544ac0b518ed85fc40c7a92833dee4,David Lord,2023-04-11,Merge branch '2.2.x',other,0,0,0,0
+a30b6e723c4b58356176cc3f6cf63ce7320250e2,David Lord,2023-04-11,update dependencies,other,19,19,38,4
+daf6966c89b280725439d2951beb88640c473154,David Lord,2023-04-05,Merge pull request #5037 from pamelafox/patch-1,other,0,0,0,0
+c4f754cda37af2af272497000517288a5207e433,David Lord,2023-04-04,Merge pull request #5041 from pallets/pre-commit-ci-update-config,other,0,0,0,0
+d2a6f5c572f5275bb8c91286cfd24c2c504cc243,pre-commit-ci[bot],2023-04-04,[pre-commit.ci] pre-commit autoupdate,other,1,1,2,1
+a361ef6368a27a8fccad2da227089fc1d05f5678,David Lord,2023-04-03,Merge pull request #5038 from pallets/dependabot/github_actions/pypa/gh-action-pypi-publish-1.8.4,other,0,0,0,0
+c2688e4f06074a9c6785d26679270718cdef5b03,David Lord,2023-04-03,Merge pull request #5040 from pallets/dependabot/github_actions/actions/cache-3.3.1,other,0,0,0,0
